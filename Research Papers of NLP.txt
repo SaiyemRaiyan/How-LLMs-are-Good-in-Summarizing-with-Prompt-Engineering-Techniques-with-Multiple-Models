@@ -1,0 +1,7 @@
+Reserch Papers of NLP
+
+1. Github links: https://github.com/mhagiwara/100-nlp-papers
+2. SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878634
+3. ChatGPT: https://chat.openai.com/share/7f89e89f-162e-4c7e-b94d-932dc966b543
+4. Slator: https://slator.com/here-are-the-best-natural-language-processing-papers-from-acl-2022/
+5. OA.mg (NLP 2020): https://oa.mg/top/top-natural-language-processing-papers-2020
