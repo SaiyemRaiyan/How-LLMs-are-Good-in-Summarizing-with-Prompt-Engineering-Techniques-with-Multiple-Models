@@ -1,18 +1,12 @@
+
 <<<<<<< HEAD
 # How LLMs are good in summarizing ft Prompt Engineering, RAG and Dspy
+![1_VQmaXe3vWq-fL_t7aDmtfg](https://github.com/user-attachments/assets/86bb378d-d001-4257-90ad-9ffc77b34f4d)
+
  
 =======
-<<<<<<< HEAD
-# How LLMs are good in summarizing ft Prompt Engineering, RAG and Dspy
- 
-=======
-TEXT-
-ext is a form of communication that involves using written or printed symbols to convey information, ideas, or thoughts. It's a fundamental means of sharing knowledge, expressing emotions, and communicating messages between individuals or groups. Text can take various forms, such as books, articles, emails, messages, and more. With the advent of digital technology, text has become a crucial part of online communication, social media, websites, and digital documents. It plays a significant role in human culture, education, and information dissemination.
+This project aims to generate summaries from long text using LLM models and RAG prompt engineering technique. Initially, we tried the whole summarization process using Microsoft/phi-2 model. This model is a small LLM model and to generate better summary from this model we used RAG technique which helps the model to generate better summaries using vectors to relate context. We tried some other LLM models like llama, sentence-transformers/all-mpnet-base-v2, etc. LangChain & ChromaDB library used to generate the embedding or vector of the context. The project is tested with the meeting data (script) and CNN-Dailymail-News Dataset from Kaggle. The summaries are evaluated with readability scores from the renowned editors. The project evaluated some models to make a conclusion regarding these models.This project aims to create summaries from long texts using Large Language Models (LLMs) and the Retrieval Augmented Generation (RAG) technique. Initially, we used the Microsoft/phi-2 model, a smaller LLM, to summarize the text. However, to improve the quality of the summaries, we applied the RAG technique, which enhances the model's performance by using vectors to better understand and relate to the context of the text.
+We also experimented with other LLM models, such as Llama and sentence-transformers/all-mpnet-base-v2, to see how they performed in summarization tasks. To generate the vectors (or embeddings) that represent the context, we used the LangChain and ChromaDB libraries, and dspy techniques.
+The project was tested using meeting transcripts and the CNN-Dailymail-News dataset from Kaggle. We evaluated the summaries using readability scores from well-known text editors. By comparing the performance of different models, we aimed to draw conclusions about their effectiveness in summarization tasks.
 
-SUMMERIZE- With the advent of digital technology, text has become a crucial part of online communication, social media, websites, and digital documents.
-
-length of original text  81
-
-length of summary text   21 
->>>>>>> 4cb7da2 (First Commit)
->>>>>>> a36831b (First commit)
+![Results Comparison Picture](https://github.com/user-attachments/assets/68d3747f-090e-49f4-a314-5908ce096036)
