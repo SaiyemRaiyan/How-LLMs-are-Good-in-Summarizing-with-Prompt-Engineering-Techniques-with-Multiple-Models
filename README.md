@@ -14,8 +14,8 @@ The project was tested using meeting transcripts and the CNN-Dailymail-News data
 
    ![image](https://github.com/user-attachments/assets/8fa891bc-1f0b-43c9-b080-6e972b90c034)
 
-                                                        #OpenAI vs Phi-2
+                                                         OpenAI vs Phi-2
    ![Results Comparison Picture](https://github.com/user-attachments/assets/68d3747f-090e-49f4-a314-5908ce096036)
 
-                                                        #OpenAI vs Llama-2
+                                                         OpenAI vs Llama-2
    ![Picture1](https://github.com/user-attachments/assets/fcec85aa-a3ea-4a65-9df7-c25fabe9a5b5)
